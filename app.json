@@ -1,0 +1,15 @@
+{
+  "name": "nodecellar-master",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
